@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/qc4bvdxqk8f10meo?svg=true)](https://ci.appveyor.com/project/Olelucoe/homework-2-api-ci)
